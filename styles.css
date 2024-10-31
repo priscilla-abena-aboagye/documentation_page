@@ -1,0 +1,31 @@
+ body {
+    font-family: Tahoma;
+    font-size: 18px;
+    
+} 
+.sidenav {
+    position: fixed;
+    background-color: black;
+    color: white;
+    width: 20%;
+    height: 200vh;
+    padding-top: 10px;
+
+}
+#main-doc, .main-section {
+    padding-left: 10em;
+    display: grid;
+}
+.sidenav a {
+    display: block;
+    color: white;
+}
+code {
+    background-color: beige;
+} 
+@media (max-width: 480px) {
+    body {
+        font-size: 14px;
+        line-height: 1.4;
+    }
+}
