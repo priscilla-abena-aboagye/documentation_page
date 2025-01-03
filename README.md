@@ -21,3 +21,8 @@ the people involved and the personal history.
 - Attributes: The common attributes we have.
 
 - Summary: Gives an overall idea of everything.
+
+------
+## Tecchnologies Used
+- Html: For the structure of the webpage
+- CSS: For styling the page
