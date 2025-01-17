@@ -5,6 +5,8 @@ Building a documentation page for the programming language html.
 This page was done to give the brief history of 
 html, development, data types, element and the attributes.
 
+------
+
 ### Key Features
 
 - Introduction: This talks about the concept of html.
@@ -23,6 +25,7 @@ the people involved and the personal history.
 - Summary: Gives an overall idea of everything.
 
 ------
+
 ## Tecchnologies Used
-- Html: For the structure of the webpage
-- CSS: For styling the page
+- Html: For the structure of the website
+- CSS: For styling and the design of the website
